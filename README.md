@@ -75,7 +75,7 @@ A sophisticated Flutter-based stock trading dashboard powered by Google Gemini A
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ai-stock-dashboard.git
+   git clone https://github.com/vedantkesharia/StockPulse-AI-Stock-Trading-App.git
    cd ai-stock-dashboard
    ```
 
